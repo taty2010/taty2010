@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/taty2010/taty2010/assets/43764894/7008b1fe-e2ed-4bd9-a408-2cd2b2126138" data-canonical-src="https://github.com/taty2010/taty2010/assets/43764894/7008b1fe-e2ed-4bd9-a408-2cd2b2126138" width="200" height="250" />
+</p>
+<h1 align="center">
+  Hello!!!
+</h1>
 
-<!--
-**taty2010/taty2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Tatyana, I am a Frontend Developer with a background in art. In my previous role I was a Software Engineer at Netlify within the Frameworks team and now in search of a new role that is more frontend focused. 
+<div align="center">
+<img src="https://github-readme-stats-tcicis-projects.vercel.app/api?username=taty2010&show_icons=true&theme=radical" />
+</div>
