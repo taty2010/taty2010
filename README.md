@@ -7,5 +7,4 @@
 
 My name is Tatyana, I am a Frontend Developer with a background in art. In my previous role I was a Software Engineer at Netlify within the Frameworks team and now in search of a new role that is more frontend focused. 
 <div align="center">
-<img src="https://github-readme-stats-tcicis-projects.vercel.app/api?username=taty2010&show_icons=true&theme=radical" />
 </div>
